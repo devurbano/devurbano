@@ -3,7 +3,7 @@
 
 Atuando há mais de 8 anos como suporte técnico, adquiri insights valiosos sobre as necessidades dos clientes (Cx), possibilitando a implementação de soluções personalizadas para otimizar a experiência do cliente (Cs).
 
-Hoje, estou direcionando meus estudos para a área de Ciência de Dados porque acredito que ela tem o poder não apenas de impulsionar a lucratividade e a sustentabilidade de empresas e empreendimentos, mas também de tornar as interações entre empresas e consumidores mais humanas, relevantes e autênticas, ao proporcionar um entendimento mais profundo das necessidades, preferências e valores dos indivíduos.
+Hoje, estou direcionando meus estudos e carreira para a área de Ciência de Dados porque acredito que ela tem o poder não apenas de impulsionar a lucratividade e a sustentabilidade de empresas e empreendimentos, mas também de tornar as interações entre empresas e consumidores mais humanas, relevantes e autênticas, ao proporcionar um entendimento mais profundo das necessidades, preferências e valores dos indivíduos.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/diogo-urbano/)[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/fellipe_urbanoo)
