@@ -14,7 +14,7 @@ Hoje, estou direcionando meus estudos e carreira para a área de Ciência de Dad
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Github Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urbanscript&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=urbanscript&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devurbano&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devurbano&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <!-- Contador de linguagens de programação usando a barra de progressão (0 a 100%)
 -->
@@ -27,6 +27,6 @@ Hoje, estou direcionando meus estudos e carreira para a área de Ciência de Dad
 -->
 
 ## Meus Projetos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=urbanscript&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/urbanscript/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=devurbano&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/urbanscript/dio-lab-open-source)
 
-![views counter](https://komarev.com/ghpvc/?username=urbanscript&style=flat-square&color=blue)
+![views counter](https://komarev.com/ghpvc/?username=devurbano&style=flat-square&color=blue)
