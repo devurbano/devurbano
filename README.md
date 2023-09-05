@@ -1,5 +1,5 @@
 
-# Diogo Urbano
+![views counter](https://komarev.com/ghpvc/?username=devurbano&style=flat-square&color=blue)
 
 Atuando há mais de 8 anos como suporte técnico, adquiri insights valiosos sobre as necessidades dos clientes (Cx), possibilitando a implementação de soluções personalizadas para otimizar a experiência do cliente (Cs).
 
@@ -24,9 +24,8 @@ Hoje, estou direcionando meus estudos e carreira para a área de Ciência de Dad
 <!-- Contador de linguagens de programação usando a barra de progressão (0 a 100%)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcidesfrancisco&theme=dracula&hide_langs_below=1)
--->
+
 
 ## Meus Projetos
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=devurbano&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/urbanscript/dio-lab-open-source)
-
-![views counter](https://komarev.com/ghpvc/?username=devurbano&style=flat-square&color=blue)
+-->
